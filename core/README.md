@@ -1,4 +1,4 @@
-## Assist x09 
+## ASSIST09 
 
 This is a variant of firmware that combines both Microsoft BASIC and the `ASSIST09` monitor into one ROM. It also includes my disassembler which adds a new monitor `U` command and trace function which adds a new monitor `T` command.
 
@@ -18,7 +18,7 @@ RAM usage:
 * TRACE         `$6FE0` - `$6FFC`
 * ASSIST09      `$7000` - `$7051`
 
-### Building the core
+### Building the program (core)
 
 * Ensure that you have built and installed [as9](../assembler/README.md).
 * Ensure that `srecord` has been installed.
