@@ -53,6 +53,8 @@ char    **argv;
                Wflag = 1;
              else if (strcmp(argv[j],"now")==0)
                Wflag = 0;
+             else if (strcmp(argv[j],"--help")==0)
+                "..print help here..";
              else
                fatal("Unknown option");
              j++;
