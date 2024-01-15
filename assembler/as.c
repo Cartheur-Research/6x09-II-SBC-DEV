@@ -17,7 +17,7 @@ char    **argv;
         int     j = 0;
 
         if(argc < 2){
-                printf("Usage: %s [files]\n",argv[j]);
+                printf("Usage: %s *.asm -l s19 now\n",argv[j]);
                 exit(1);
                 }
           Argv = argv;
