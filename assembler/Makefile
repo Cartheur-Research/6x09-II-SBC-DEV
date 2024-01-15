@@ -1,4 +1,4 @@
-
+# Makefile for the Linux version of the x09 assembler.
 
 SRCH=   \
 as.h    \
