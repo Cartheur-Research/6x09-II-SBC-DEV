@@ -21,3 +21,5 @@ Where the challenges are
 * How to build the [assembler](/assembler/README.md)
 * How to build the [EPROM](/core/README.md) that contains ASSIST09 _and_ BASIC
 * Motorola-s original documentation on [ASSIST09](/doc/as11v2.pdf)
+* Sources and configuration details on the `monitor` [program](/monitor/README.md)
+* Sources and build details on the [operating](/os/README.md) system
