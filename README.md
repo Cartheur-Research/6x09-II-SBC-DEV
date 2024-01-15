@@ -23,3 +23,9 @@ Where the challenges are
 * Motorola-s original documentation on [ASSIST09](/doc/as11v2.pdf)
 * Sources and configuration details on the `monitor` [program](/monitor/README.md)
 * Sources and build details on the [operating](/os/README.md) system
+* The beginnings of a CP/M-esque [bios](/bios/README.md)
+* Bootloader sample code from BardAI [here](/bootloader/README.md)
+
+### What is relevant
+
+* The unfiltered operating system [AeonOS9](https://github.com/cartheur/M6809-AeonOS9)
