@@ -25,6 +25,7 @@ Where the challenges are
 * Sources and build details on the [operating](/os/README.md) system
 * The beginnings of a CP/M-esque [bios](/bios/README.md)
 * Bootloader sample code from BardAI [here](/bootloader/README.md)
+* The beginnings of [application](/app/README.md) development
 
 ### What is relevant
 
