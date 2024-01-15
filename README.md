@@ -13,6 +13,8 @@ Where the challenges are
 * Create a baseline software in the configuration of the original Motorola offering for _x09_
 * Build-up an application library that will steer development to _dual-CPU multicomputing_
 * On the topic of [multicomputing](https://github.com/cartheur/M6809-multicomputer)
+* Couple boards _alpha_ and _gamma_ into a single configuration of multicomputing, so that...
+* A Version 2 board can be designed with the same hardware but two 6809 and two 6309 for comparative computing aims.  
 
 ### What is here
 
