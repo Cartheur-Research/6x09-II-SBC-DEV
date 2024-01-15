@@ -1,6 +1,6 @@
 ************************************************************************
 ;
-; Microsoft Color Computer Basic
+; TRS Color Computer Basic
 
 UART      EQU  $A000
 RECEV     EQU  UART+1
