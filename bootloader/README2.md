@@ -36,6 +36,7 @@ int main() {
 This code calls the assembly code by using the `__asm__` directive. The `volatile` keyword is used to prevent the compiler from optimizing the call away.
 
 Find the mentioned 6809.inc file [here](/bootloader/6809-inc.md)
+In the case of a 6309.inc file that is [here](/bootloader/6309-inc.md)
 
 ### Draft 2
 
