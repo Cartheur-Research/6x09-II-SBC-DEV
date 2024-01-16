@@ -10,7 +10,7 @@ Supporting BIOS.
 
 The other code-generated files are:
 
-* [Launch](/bootloader/README2.md) c-program on startup
+* [Launch](/bootloader/6809-start-c.md) c-program on startup
 
 -----
 Write me assembly code bootloader for a dual-cpu 6809 computer. | Sure, here is the assembly code bootloader for a dual-CPU 6809 computer:
