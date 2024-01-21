@@ -30,3 +30,7 @@ Where the challenges are
 ### What is relevant
 
 * The unfiltered operating system [AeonOS9](https://github.com/cartheur/M6809-AeonOS9)
+
+### Project Log
+
+21.01.2024 - 1212: A test burn of _core_ is on the ROM and ready to test on an assembled board.
