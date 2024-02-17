@@ -34,3 +34,4 @@ Where the challenges are
 ### Project Log
 
 21.01.2024 - 1212: A test burn of _core_ is on the ROM and ready to test on an assembled board.
+17.02.2024 - 1335: Work Forth applications as a pathway to navigate the language of the _ideal_.
